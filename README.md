@@ -1,4 +1,4 @@
-# Basic React Form
+## Basic React Form
 
-The result odf my work you can see here - https://765a78c8.basic-react-form.pages.dev/
+The result of my work you can see here - https://765a78c8.basic-react-form.pages.dev/
 
