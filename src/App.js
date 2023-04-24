@@ -20,7 +20,10 @@ function App() {
         placeholder="Email"
         name="email"
         ></input>
-        <button>Register</button>
+        <button
+        className="form-field"
+        type="submit"
+        >Register</button>
       </form>
     </div>
   );
